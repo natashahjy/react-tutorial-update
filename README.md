@@ -2,7 +2,8 @@
 
 [To follow this React tutorial](https://ibaslogic.com/blog/react-tutorial-for-beginners/)
 
-
+Progress: Section 9 (to go to section 10)
+https://ibaslogic.com/routing-with-react-router/
 
 ### Switch deprecated in react router v6
 https://stackoverflow.com/questions/69843615/switch-is-not-exported-from-react-router-dom
