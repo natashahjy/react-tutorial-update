@@ -2,7 +2,13 @@
 
 [To follow this React tutorial](https://ibaslogic.com/blog/react-tutorial-for-beginners/)
 
-https://ibaslogic.com/how-to-use-svg-icons-in-react-project/
+
+
+### Switch deprecated in react router v6
+https://stackoverflow.com/questions/69843615/switch-is-not-exported-from-react-router-dom
+
+### useRouteMatch deprecated
+https://stackoverflow.com/questions/72683709/react-router-v6-useroutematch-equivalent
 
 ### Clone the starter project
 
