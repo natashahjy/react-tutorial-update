@@ -2,6 +2,8 @@
 
 [To follow this React tutorial](https://ibaslogic.com/blog/react-tutorial-for-beginners/)
 
+https://ibaslogic.com/how-to-use-svg-icons-in-react-project/
+
 ### Clone the starter project
 
 You can download or clone this project by running this command from your terminal:
